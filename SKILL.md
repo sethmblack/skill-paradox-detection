@@ -3,8 +3,9 @@ name: paradox-detection
 description: Identify self-referential contradictions, circular definitions, and foundational problems in reasoning, claims, or systems.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4634
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - paradox-detection
 - writing
